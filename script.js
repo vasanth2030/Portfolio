@@ -36,7 +36,7 @@ $(document).ready(function(){
     var typed = new Typed(".typing", {
         strings: ["Portfolio"],
         typeSpeed: 100,
-        backSpeed: 100,
+        backSpeed: 90,
         loop: true
     });
 
